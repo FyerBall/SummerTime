@@ -1,3 +1,3 @@
 # SummerTime
 
-(Demo)[https://fyerball.github.io/SummerTime/]
+[Demo](https://fyerball.github.io/SummerTime)
